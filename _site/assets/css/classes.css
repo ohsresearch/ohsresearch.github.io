@@ -88,7 +88,7 @@
 
 .categories { color: #68f; margin-bottom: .15em; }
 
-.title { font-size: 1.3em; }
+.icons svg { height: 1em; width: 1em; fill: currentColor; transition: .2s color; vertical-align: middle; margin-bottom: .15em; }
 
 .related div { flex: 1 0 15em; }
 
@@ -97,6 +97,8 @@
 .related a { font-size: 1.2em; font-weight: bold; }
 
 @media (min-width: 30em) { .next { text-align: right; } }
+
+.title { font-size: 1.5em; width: 100%; margin: .1em 0 .6em; }
 
 .icons a:hover svg { color: #8e8e91; }
 

@@ -18,7 +18,7 @@ article:not(:last-child) { border-bottom-color: rgba(142, 142, 145, 0.2); }
 
 .hidden { display: inline-block; }
 
-.title { display: none; }
+.title { display: block; font-size: 1.5em; margin-bottom: 1em; }
 
 .description { margin: 2em 0; }
 
